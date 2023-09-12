@@ -2,13 +2,13 @@
 
 /**
  * main - Entry point of the program
- * 
+ *
  *
  *
  *
  * Return: Always (Success)
  */
-int main(void) 
+int main(void)
 {
 	int i;
 
@@ -16,7 +16,7 @@ int main(void)
 	{
 		putchar(i + '0');
 	}
-	
+
 	putchar('\n');
 	return (0);
 }
